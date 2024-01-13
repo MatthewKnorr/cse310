@@ -1,17 +1,10 @@
 # Overview
 
-All text enclosed in curly braces should be removed and replaced with your text without curly braces.
-
 In my pursuit as a software engineer, I am dedicated to continual learning. My current focus involves mastering C++ and enhancing my proficiency in C#, aiming to solidify my foundation and uncover new opportunities for growth within the realm of software development.
 
-{Provide a description of your software
+The presented code represents a basic C# application, named "HelloWorld." Within this simple program, the Console.WriteLine method is employed to output the classic "Hello, World!" message to the console. This brief yet foundational example serves as an introduction to the fundamental structure of a C# console application.
 
-A C# that describe how very simply it displays hello world, }
-
-{Describe your purpose for creating this software.
-
-to refresh my memory on C# from my class a few semesters ago.
-}
+The purpose of creating this simple "HelloWorld" C# program is to refresh my memory on C# from my class a few semesters ago. This straightforward example serves as a quick and practical way to revisit the basic syntax and structure of C#, providing a refresher on fundamental concepts learned in the past.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -19,12 +12,10 @@ to refresh my memory on C# from my class a few semesters ago.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+I used Visual Studio Code to develop and run the C# program, leveraging its user-friendly interface and seamless integration with the .NET Core compiler. Git provided version control, and the terminal in Visual Studio Code facilitated quick program execution and testing. This efficient toolkit contributed to a streamlined development process.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [C# Tutorial](https://www.w3schools.com/cs/index.php)
+* [C# Syntax Guide](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
