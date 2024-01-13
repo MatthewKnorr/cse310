@@ -16,6 +16,5 @@ I used Visual Studio Code to develop and run the C# program, leveraging its user
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [C# Tutorial](https://www.w3schools.com/cs/index.php)
 * [C# Syntax Guide](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
