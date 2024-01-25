@@ -15,12 +15,12 @@
 - [1/12 &  2:01 PM]: Completed "Hello World" program in C#
 - [1/12 &  2:03 PM]: Downloaded README.md template
 - [1/12 &  2:04 PM]: Edited README.md file
-- [1/13 &  10:00 PM]: Start creating the one-minute video
-- [1/13 &  10:15 PM]: Finished the one-minute video
-- [1/13  & Time]: Published video on YouTube
+- [1/13 &  9:15 PM]: Start creating the one-minute video
+- [1/13 & 9:40 PM]: Finished the one-minute video
+- [1/13  & 9:45]: Published video on YouTube
 - [1/13  & 9:06 PM]: Published code and README.md on GitHub
 - [1/13 &  12:00 PM]: Downloaded cse310_personal_software_portfolio_online.docx
-- [1/13  & 12:05 PM]: Completed document, provided GitHub link
-- [1/13 & Time]: Submitted the document on I-Learn
+- [1/13  & 10:30 PM]: Completed document, provided GitHub link
+- [1/13 & 10:39]: Submitted the document on I-Learn
 
-## Total Time Spent: 1
+## Total Time Spent: Approximately 2 Hours
