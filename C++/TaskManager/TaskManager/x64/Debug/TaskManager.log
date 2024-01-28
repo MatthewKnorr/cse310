@@ -1,0 +1,3 @@
+﻿  TaskManager.cpp
+D:\code\byui\CSE 310\C++\TaskManager\TaskManager\TaskManager.cpp(355,57): warning C4101: 'e': unreferenced local variable
+  TaskManager.vcxproj -> D:\code\byui\CSE 310\C++\TaskManager\x64\Debug\TaskManager.exe
