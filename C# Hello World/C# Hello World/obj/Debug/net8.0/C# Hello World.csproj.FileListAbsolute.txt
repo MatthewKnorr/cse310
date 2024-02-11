@@ -1,0 +1,15 @@
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\bin\Debug\net8.0\C# Hello World.exe
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\bin\Debug\net8.0\C# Hello World.deps.json
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\bin\Debug\net8.0\C# Hello World.runtimeconfig.json
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\bin\Debug\net8.0\C# Hello World.dll
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\bin\Debug\net8.0\C# Hello World.pdb
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\C# Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\C# Hello World.AssemblyInfoInputs.cache
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\C# Hello World.AssemblyInfo.cs
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\C# Hello World.csproj.CoreCompileInputs.cache
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\C# Hello World.sourcelink.json
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\C# Hello World.dll
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\refint\C# Hello World.dll
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\C# Hello World.pdb
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\C# Hello World.genruntimeconfig.cache
+D:\code\byui\CSE 310\Personal-Software-Portfolio\C# Hello World\obj\Debug\net8.0\ref\C# Hello World.dll

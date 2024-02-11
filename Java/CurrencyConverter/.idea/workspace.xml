@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6da3a47e-270a-4fb8-b697-ebe24831c49b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/currencyconverter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/C# Hello World.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/Files/LOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/bin/Debug/net8.0/C# Hello World.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/bin/Debug/net8.0/C# Hello World.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/bin/Debug/net8.0/C# Hello World.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/bin/Debug/net8.0/C# Hello World.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/bin/Debug/net8.0/C# Hello World.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/C# Hello World.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/C# Hello World.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/C# Hello World.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/C# Hello World.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/ref/C# Hello World.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/Debug/net8.0/refint/C# Hello World.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Hello World/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TaskManager/.vs/TaskManager/FileContentIndex/6c056e7f-d37e-4d6e-8a2f-cd79e5b7e668.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TaskManager/.vs/TaskManager/FileContentIndex/79daa11c-f7f8-401d-a8ee-068cb75be8de.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TaskManager/.vs/TaskManager/FileContentIndex/9a813904-6118-4ba4-88d6-6721ac9da703.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TaskManager/.vs/TaskManager/FileContentIndex/fce54d7e-c71a-4fe1-8fd9-cc61fc5cad0f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TaskManager/.vs/TaskManager/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/TaskManager/.vs/TaskManager/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2c1w4ph5HfuDN2J5BnzV0xOeUok" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrencyConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.currencyconverter" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da3a47e-270a-4fb8-b697-ebe24831c49b" name="Changes" comment="" />
+      <created>1707292204790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707292204790</updated>
+    </task>
+    <servers />
+  </component>
+</project>
