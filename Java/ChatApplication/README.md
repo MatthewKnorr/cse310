@@ -1,38 +1,32 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I've developed a networking program that facilitates communication between two users in real-time. This program allows users to exchange messages seamlessly over a network, either through a client-server architecture or a peer-to-peer model. The goal behind creating this software was to deepen my understanding of networking concepts and enhance my skills as a software engineer.
 
-{Provide a description the networking program that you wrote. Describe how to use your software.  If you did Client/Server, then you will need to describe how to start both.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (you will need to show two pieces of software running and communicating with each other) and a walkthrough of the code.}
+To use the software, users need to run the provided Java application on their machines. If using the client-server model, one user should run the server application, while the other user(s) run the client application. If using the peer-to-peer model, each user should run the client application independently.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Network Communication
 
-{Describe the architecture that you used (client/server or peer-to-peer)}
+The architecture used in this program is primarily client-server, although it can also function in a peer-to-peer mode. TCP (Transmission Control Protocol) is employed for reliable, connection-oriented communication between clients and servers. The server listens on a specified port number (e.g., 9500), while clients connect to this port to establish communication.
 
-{Identify if you are using TCP or UDP and what port numbers are used.}
-
-{Identify the format of messages being sent between the client and server or the messages sent between two peers.}
+Messages exchanged between clients and servers, or between peers, are formatted as simple text strings. Each message typically contains the sender's identifier and the actual content of the message.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+For developing this software, I utilized IntelliJ IDEA as my integrated development environment (IDE). The programming language used is Java, and I made extensive use of Java's built-in networking capabilities. Additionally, JavaFX was employed to create a graphical user interface (GUI) for the application, providing a more intuitive user experience.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+During the development process, I found the following websites to be particularly helpful:
+* [Oracle Java Documentation](https://docs.oracle.com/javase/8/docs/)
+* [Baeldung](https://www.baeldung.com/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+While the current version of the software fulfills basic messaging functionality, there are several areas that could be improved or expanded upon in the future:
+* Implementing encryption for secure communication.
+* Adding support for multimedia content such as images and files.
+* Enhancing the GUI with more features and customization options.
+* Optimizing the codebase for better performance and scalability.
