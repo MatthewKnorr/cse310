@@ -13,6 +13,8 @@ class EmployeeDirectoryApp:
         # Set background color
         self.root.configure(background='#f0f0f0')
 
+        self.labels_dict = {}  # Initialize labels_dict here
+        
         self.create_gui()
 
     def create_gui(self):
@@ -98,13 +100,22 @@ class EmployeeDirectoryApp:
             employee = self.employees[index]
             dept_prefix = employee[5][:3].upper()
             emp_id = f"{dept_prefix}-{employee[0]:03}"
-            self.labels_dict["Employee ID:"].config(text=f"Employee ID: {emp_id}")
-            self.labels_dict["First Name:"].config(text=f"First Name: {employee[1]}")
-            self.labels_dict["Last Name:"].config(text=f"Last Name: {employee[2]}")
-            self.labels_dict["Email:"].config(text=f"Email: {employee[3]}")
-            self.labels_dict["Phone Number:"].config(text=f"Phone Number: {employee[4]}")
-            self.labels_dict["Department:"].config(text=f"Department: {employee[5]}")
-            self.labels_dict["Date of Joining:"].config(text=f"Date of Joining: {employee[6]}")
+            
+            if "Employee ID:" in self.labels_dict:
+                self.labels_dict["Employee ID:"].config(text=emp_id)
+            if "First Name:" in self.labels_dict:
+                self.labels_dict["First Name:"].config(text=employee[1])
+            if "Last Name:" in self.labels_dict:
+                self.labels_dict["Last Name:"].config(text= employee[2])
+            if "Email:" in self.labels_dict:
+                self.labels_dict["Email:"].config(text= employee[3])
+            if "Phone Number:" in self.labels_dict:
+                self.labels_dict["Phone Number:"].config(text= employee[4])
+            if "Department:" in self.labels_dict:
+                self.labels_dict["Department:"].config(text= employee[5])
+            if "Date of Joining:" in self.labels_dict:
+                self.labels_dict["Date of Joining:"].config(text= employee[6])
+            
             self.remove_button.config(state=tk.NORMAL)
         else:
             self.labels_dict["Employee ID:"].config(text="")
@@ -127,13 +138,15 @@ class EmployeeDirectoryApp:
             self.display_employee(self.current_employee_index)
 
     def remove_selected_employee(self):
-        first_name = self.labels_dict["First Name:"].cget("text").split(": ")[1]
-        last_name = self.labels_dict["Last Name:"].cget("text").split(": ")[1]
+        first_name_label_text = self.labels_dict["First Name:"].cget("text").split(": ")[1]
+        last_name_label_text = self.labels_dict["Last Name:"].cget("text").split(": ")[1]
         
-        remove_employee(first_name, last_name)
-        
-        # Refresh employee list
-        self.update_employee_list()
+        try:
+            remove_employee(first_name_label_text, last_name_label_text)
+            messagebox.showinfo("Success", f"Employee {first_name_label_text} {last_name_label_text} removed successfully!")
+            self.update_employee_list()
+        except Exception as e:
+            messagebox.showerror("Error", str(e))
 
     def create_employee(self):
         first_name = self.first_name_entry.get()
